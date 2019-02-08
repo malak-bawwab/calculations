@@ -1,1 +1,3 @@
-
+<project default="compile>
+       < property name="src.java.dir" location="./src/main/java/converter"/> 
+</project
