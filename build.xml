@@ -1,5 +1,5 @@
                                                                           
-<project default="compile>
+<project default="compile">
        < property name="src.java.dir" location="./src/main/java/converter"/> 
                     < property name="src.test.dir" location="./src/main/test"/> 
              < property name="result.dir" location="./target"/> 
